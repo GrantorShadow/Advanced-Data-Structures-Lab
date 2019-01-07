@@ -1,16 +1,4 @@
-/*********************************************************************************************************************************
-ASSIGNMENT : Write C or C++ program to Implement Red Black Tree Data Structure for storing set of integer keys.
-and perform the following operations.
-1. Insert()
-2. Delete()
-3. Search()
-After each operation (insert,delete) Display the corresponding rotation or color change that took place
-NAME : SHAUNAK JOSHI
-CLASS : SY-H
-ROLL NO : 41
-GR: 161042
-**********************************************************************************************************************************
-*/
+
 #include<iostream>
 using namespace std;
 typedef struct rbt
