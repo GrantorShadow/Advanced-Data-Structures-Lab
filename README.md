@@ -1,5 +1,6 @@
-# Advanced-Data-Structures-Lab
+### Advanced-Data-Structures-Lab
 Repo for Assignments done for IT203TLP ~ Advanced Data Structures, VIT, Pune.
+
 
 *Assignment 1:*
 Implementation of Red Black Tree Data Strcuture
