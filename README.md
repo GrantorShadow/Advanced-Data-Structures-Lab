@@ -42,8 +42,8 @@ Implementation of *Position Heap Data Structure* and perform following operation
 1. Build Position Heap 
 2. Query position Heap.
 
-* **_Assignment 5:_**
-Implementation of *Skip List* to maintain student database such as {Name,Roll_Number,Marks,Phone_number} using skiplist and perform 
+* **_Assignment 6:_**
+Implementation of *Skip List* to maintain student database such as Name, Roll_Number, Marks, Phone_number using skiplist and perform 
 1. insert()
 2. search()
 3. delete()
@@ -51,13 +51,13 @@ Implementation of *Skip List* to maintain student database such as {Name,Roll_Nu
 find_records_within_range()//E.g. from roll_no 20 to roll_no 35 et. all
 
 
-* **_Assignment 5:_**
+* **_Assignment 7:_**
 Implementation of *Point-Region Quadtree* to perform following operations.
 1. Create()
 2. Search()
 3. RangeQuery()//this function will take the input as rectangular query region and returns the set of points falling inside or on the boundaries of the rectangular query region.
 
-* **_Assignment 6:_**
+* **_Assignment 8:_**
 Implementation of *K-D Tree* such that Number of dimensions(k) will be given at run time.
 Your implementation should be able to perform
 1. Create().
