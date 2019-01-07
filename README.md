@@ -3,7 +3,7 @@
 Repo for Assignments done for IT203TLP ~ Advanced Data Structures, VIT, Pune.
 
 
-*Assignment 1:*
+* **Assignment 1:**
 Implementation of Red Black Tree Data Strcuture
 Wirte C or C++ program to Implement Red Black Tree Data Structure for storing set of integer keys.
 and perform the following operations.
