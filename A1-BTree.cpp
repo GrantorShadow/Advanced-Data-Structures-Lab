@@ -1,11 +1,3 @@
-/*********************************************************************************************************************************
-ASSIGNMENT : Write C/C++ program to implement B tree operations Such as: Insert() search() Traverse() Order of B tree must be greater than 10.
-NAME : SHAUNAK JOSHI
-CLASS : SY-H
-ROLL NO : 41
-GR: 161042
-**********************************************************************************************************************************
-*/
 #include<stdio.h>
 #include<stdlib.h>
 
