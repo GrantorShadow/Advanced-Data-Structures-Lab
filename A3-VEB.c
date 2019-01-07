@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include<malloc.h>
 #include<math.h>
