@@ -1,4 +1,4 @@
-### Advanced-Data-Structures-Lab
+### _Advanced-Data-Structures-Lab_
 --------------------------------
 Repo for Assignments done for *IT203TLP ~ Advanced Data Structures, VIT, Pune.*
 
